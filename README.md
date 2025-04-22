@@ -1,8 +1,8 @@
-# DESAFIOCONTROLEFLUXO
+# DESAFIO CONTADOR DIO
 
 ## Descrição do Projeto
 
-  O **DESAFIOCONTROLEFLUXO** é um projeto em **Java** que utiliza os fundamentos de **Programação Orientada a Objetos (POO)**.
+  O **DESAFIO CONTADOR DIO** é um projeto em **Java** que utiliza os fundamentos de **Programação Orientada a Objetos (POO)**.
   Ele foi desenvolvido como um desafio para implementar funcionalidades relacionadas à contagem e ao gerenciamento de uma lista de 
 pessoas, com foco em boas práticas de código e estruturação.
 
