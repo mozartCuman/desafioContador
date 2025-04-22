@@ -1,4 +1,4 @@
-package controleFluxo;
+package desafioContadorDio;
 
 class N1InvalidoException extends Exception {
     public N1InvalidoException() {
